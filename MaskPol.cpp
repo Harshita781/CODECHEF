@@ -11,7 +11,7 @@ Input Format
 The first line contains T - number of test cases. Then the test cases follow.
 The first and only line of each test case contains two integers N and A - the total number of people living in the city and the number of people already affected by the virus respectively.
 Output Format
-For each test case, output the minimum number of people that will be required to wear a mask so as to curb the virus spread.
+For each test case, output the minimum number of people that will be required to wear a mask so as to curb the virus spread.s
 */
 #include <iostream>
 using namespace std;
